@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghu-exe
+- 👋 Hi, I’m @Raghu-exe AKA Raghunandan Wable
 - 👀 I’m interested in coding, gaming, biking and so much more!
 - 🌱 I’m currently learning Java, R.
 - 💞️ I’m looking to collaborate on any and all projects. I'm always ready to learn
